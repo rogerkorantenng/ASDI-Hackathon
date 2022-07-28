@@ -45,11 +45,11 @@ from sentinelhub import SHConfig
 
 config = SHConfig()
 
-config.instance_id = '******-d42e-42aa-8bea-*******' #instance id
-config.sh_client_id = '****-dd23-4b63-9c23-******'  #sentinel hub client id
-config.sh_client_secret = '*****RGep}DcjC~P|,g!(V&o#u******'  #sentinel hub secret
-config.aws_access_key_id = '*****X75NI*****'  #aws access key
-config.aws_secret_access_key = '*****sJpJcMwDUg90A*****'  #aws secret key
+config.instance_id = '' #instance id
+config.sh_client_id = ''  #sentinel hub client id
+config.sh_client_secret = ''  #sentinel hub secret
+config.aws_access_key_id = ''  #aws access key
+config.aws_secret_access_key = ''  #aws secret key
 
 #Save configuration 
 config.save()
