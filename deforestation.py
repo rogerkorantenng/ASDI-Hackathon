@@ -1,4 +1,18 @@
 
+#Install needed python lib.
+#Install all required python lib.
+%pip install pandas
+%pip install numpy
+%pip install geopandas
+%pip install shapely
+%pip install matplotlib
+%pip install plotly_express
+%pip install sentinelhub
+%pip install rasterio
+%pip install earthpyname: geo-data
+%pip install utils
+%pip install sentinelhub==3.4.1
+
 
 #Import all python lib.
 import pandas as pd
