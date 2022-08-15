@@ -3,7 +3,7 @@
 #Steps Used
 ## How we built it(Steps)
 
-1: We use Bbox to get co-ordinates of the Mole National Park and Ankasa Game Reserves from **http://bboxfinder.com**, once we get the **xMin, yMin and xMax, yMax** we can then pass it in the **search_bbox** function 
+1. We use Bbox to get co-ordinates of the Mole National Park and Ankasa Game Reserves from **http://bboxfinder.com**, once we get the **xMin, yMin and xMax, yMax** we can then pass it in the **search_bbox** function 
 
 2. We use the **search_time_interval** python function to determine the time length
  
