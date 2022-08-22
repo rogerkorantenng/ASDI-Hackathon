@@ -1,5 +1,7 @@
 # ASDI-Hackathon
 
+The **deforestation_asdi.ipynb** file contains all the code used in this Hackathon
+
 #Steps Used
 ## How we built it(Steps)
 
