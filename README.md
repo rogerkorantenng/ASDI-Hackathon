@@ -36,10 +36,10 @@ The **deforestation_asdi.ipynb** file contains all the code used in this Hackath
 ##Images and Code Snippets
 
 <img src="/images/Capture.PNG" width="500" length="600"/>
-<img src="/images/Capture0.PNG" width="500" length="600"/>
 <img src="/images/Capture1.PNG" width="500" length="600"/>
 <img src="/images/Capture2.PNG" width="500" length="600"/>
 <img src="/images/Capture3.PNG" width="500" length="600"/>
 <img src="/images/Capture4.PNG" width="500" length="600"/>
 <img src="/images/Capture5.PNG" width="500" length="600"/>
+<img src="/images/Capture6.PNG" width="500" length="600"/>
 
