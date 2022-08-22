@@ -33,4 +33,4 @@ The **deforestation_asdi.ipynb** file contains all the code used in this Hackath
 
 14. Finally we plot the image
 
-<img src="screenshoot.jpg" width="34"/>
+<img src="screenshoot.jpg" width="280"/>
