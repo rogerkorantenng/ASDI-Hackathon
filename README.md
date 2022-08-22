@@ -32,3 +32,5 @@ The **deforestation_asdi.ipynb** file contains all the code used in this Hackath
 13. Because we were checking for the vegetation view, we used band 4 and band 8 
 
 14. Finally we plot the image
+
+![Screenshot](screenshot.png)
